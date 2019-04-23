@@ -1,0 +1,3 @@
+#define VERSION_BUILD exported 
+#define VERSION_QFE 0 
+#define VERSION_BUILD_DATETIME 2010/04/13 02:37PM 

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<VisualStudioProject
+	ProjectType="Intel C++ Project"
+	Version="11.1"
+	Name="Reconstructor"
+	ProjectGUID="{2D6B1E64-E0C5-406B-97FE-BAB879FBB1A9}"
+	VCNestedProjectGUID="{A17AC096-390A-4163-A74A-736A9958B9D8}"
+	VCNestedProjectFileName="Reconstructor.vcproj">
+	<Configurations>
+		<Configuration
+			Name="Release|x64">
+			<Tool
+				Name="CppCmplrTool"
+				GlobalOptimizations="true"
+				FlushDenormalResultsToZero="true"
+				UseProcessorExtensions="6"/>
+		</Configuration>
+	</Configurations>
+	<Files/>
+</VisualStudioProject>

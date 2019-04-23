@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Reconstructor", "Reconstructor\Reconstructor.vcproj", "{A17AC096-390A-4163-A74A-736A9958B9D8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Library", "Library\Library.vcproj", "{3CB49975-85FC-44BB-8707-DCBD54617ED3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A17AC096-390A-4163-A74A-736A9958B9D8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A17AC096-390A-4163-A74A-736A9958B9D8}.Debug|Win32.Build.0 = Debug|Win32
+		{A17AC096-390A-4163-A74A-736A9958B9D8}.Debug|x64.ActiveCfg = Debug|x64
+		{A17AC096-390A-4163-A74A-736A9958B9D8}.Debug|x64.Build.0 = Debug|x64
+		{A17AC096-390A-4163-A74A-736A9958B9D8}.Release|Win32.ActiveCfg = Release|Win32
+		{A17AC096-390A-4163-A74A-736A9958B9D8}.Release|Win32.Build.0 = Release|Win32
+		{A17AC096-390A-4163-A74A-736A9958B9D8}.Release|x64.ActiveCfg = Release|x64
+		{A17AC096-390A-4163-A74A-736A9958B9D8}.Release|x64.Build.0 = Release|x64
+		{3CB49975-85FC-44BB-8707-DCBD54617ED3}.Debug|Win32.ActiveCfg = Debug (LIB,Unicode)|x64
+		{3CB49975-85FC-44BB-8707-DCBD54617ED3}.Debug|x64.ActiveCfg = Debug (LIB,Unicode)|x64
+		{3CB49975-85FC-44BB-8707-DCBD54617ED3}.Debug|x64.Build.0 = Debug (LIB,Unicode)|x64
+		{3CB49975-85FC-44BB-8707-DCBD54617ED3}.Release|Win32.ActiveCfg = Release (LIB,Ansi)|Win32
+		{3CB49975-85FC-44BB-8707-DCBD54617ED3}.Release|Win32.Build.0 = Release (LIB,Ansi)|Win32
+		{3CB49975-85FC-44BB-8707-DCBD54617ED3}.Release|x64.ActiveCfg = Release (LIB,Ansi)|x64
+		{3CB49975-85FC-44BB-8707-DCBD54617ED3}.Release|x64.Build.0 = Release (LIB,Ansi)|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
